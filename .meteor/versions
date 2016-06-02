@@ -65,6 +65,8 @@ logging@1.0.12
 markdown@1.0.9
 meteor@1.1.14
 meteor-base@1.0.4
+meteorhacks:async@1.0.0
+meteorhacks:npm@1.5.0
 minifier-css@1.1.11
 minifier-js@1.1.11
 minimongo@1.0.16
@@ -76,6 +78,7 @@ mongo@1.1.7
 mongo-id@1.0.4
 nefiltari:yaki@0.1.81
 npm-bcrypt@0.8.5
+npm-container@1.2.0
 npm-mongo@1.4.43
 observe-sequence@1.0.11
 ordered-dict@1.0.7
