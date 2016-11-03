@@ -6,7 +6,7 @@ import { Accounts } from 'meteor/accounts-base';
 
 
 const spawn = require('child_process').spawn;
-const phantomjs = require('phantomjs');
+// const phantomjs = require('phantomjs');
 
 // console.log(spawn, phantomjs)
 
